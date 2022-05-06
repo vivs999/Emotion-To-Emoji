@@ -1,0 +1,44 @@
+body
+{
+  color: cyan;
+  background: darkcyan;
+  border: cyan ridge 15px;
+  font-family: cursive;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed cyan;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: cyan;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+
+.heading{
+  font-size: 20px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
+
+.btn{
+  background-color: cyan;
+  color: darkcyan;
+}
+
+.emoticon_name{
+  font-size: 28px;
+}
